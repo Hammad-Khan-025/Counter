@@ -1,0 +1,16 @@
+.container{
+    height: 100vh !important;
+    padding: 0 !important;
+}
+body{
+    background-image: linear-gradient(  #FFBBBB, #A9F1DF);
+}
+.container button{
+    font-weight: 600;
+}
+.value{
+    font-size: 6vw;
+}
+button:focus{
+    box-shadow: none !important;
+}
